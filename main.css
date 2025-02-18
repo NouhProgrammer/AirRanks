@@ -14,15 +14,12 @@ body {
 }
 
 a {
-    display: block;
     font-size: 18px;
     color: white;
     background-color: #007bff;
     padding: 10px;
     margin: 15px auto;
     text-decoration: none;
-    border-radius: 5px;
-    width: 250px;
     transition: background 0.3s;
 }
 
